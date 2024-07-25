@@ -5,8 +5,9 @@
 Analyzing market trends based on each region using Tableau involves creating visual representations of sales data, customer demographics, and product performance across different geographic areas. By leveraging Tableau's features, stakeholders can gain insights into regional variations in market demand, customer preferences, and sales performance. This analysis will help in identifying growth opportunities, optimizing marketing strategies, and tailoring product offerings to specific regions for enhanced market penetration and profitability..
 
 ![Dashboard](![Market Sales Analysis](![vvv](https://github.com/user-attachments/assets/4fee246b-058d-47d3-ba0b-6fa15e405870)
-)
-)
+))
+
+[Market Sales Analysis Report](http)
 
 ## Data Source
 
