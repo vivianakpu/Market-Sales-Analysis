@@ -1,4 +1,4 @@
-# Market-Sales-Analysis
+# Sundown Market Sales Analysis
 
 ## Project Overview
 
@@ -7,7 +7,7 @@ Analyzing market trends based on each region using Tableau involves creating vis
 ![Dashboard](![Market Sales Analysis](![vvv](https://github.com/user-attachments/assets/4fee246b-058d-47d3-ba0b-6fa15e405870)
 ))
 
-[Market Sales Analysis Report](http)
+[Market Sales Analysis Report](https://public.tableau.com/app/profile/vivian.akpu/viz/SUNDOWNMARKETSALESANALYSIS/Dashboard1?publish=yes)
 
 ## Data Source
 
